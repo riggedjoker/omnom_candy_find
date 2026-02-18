@@ -1,6 +1,6 @@
 # Om Nom's Candy
 
-**Author:** Manav  
+**Author:** me.
 
 ## Description
 
